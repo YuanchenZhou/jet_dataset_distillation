@@ -1,4 +1,4 @@
-This work is currently done for a school course project.
+This work is currently for a school course project.
 These are scripts of dataset distillation for jet tagging, and they don't seem to work very well.
 
 The Quark/Gluon jets dataset will be automatically downloaded when running the scripts
